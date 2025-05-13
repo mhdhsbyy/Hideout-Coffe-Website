@@ -248,7 +248,7 @@ body {
   object-fit: cover;
   width: auto;
   height: 30rem;
-  border-color: #fff;
+  padding: 1rem;
 }
 
 /* Contact Section */
